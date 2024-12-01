@@ -1,2 +1,2 @@
 # demo
-This is a demo. Class learning.
+This is a demo. Class learning. New feature
